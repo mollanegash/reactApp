@@ -1,0 +1,59 @@
+.logo{
+   
+
+  
+    background-image: url("https://mdn.mozillademos.org/files/12057/starsolid.gif" ) ;
+  
+
+
+
+  
+}
+
+
+
+
+
+
+
+
+
+
+.nav{
+    margin: 0;
+    overflow:hidden;
+    text-align:start;
+    
+}
+
+p,h1,h6,h3,div{
+   
+  
+    padding: 20px;
+    font-family: arial;
+    text-align: start;
+
+}
+
+.footer{
+    color:white;
+  
+    text-align: left;
+    background-color: rgb(44, 42, 42);
+    /* margin-left: 2.5em */
+    
+}
+.fieldset{
+    padding: 0px;
+    
+}
+
+.br{
+    padding: 0px;
+    font-family: arial;
+    text-align: start;
+
+}
+
+
+

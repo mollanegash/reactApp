@@ -1,0 +1,24 @@
+.pressIcon {
+    width: 128px;
+    height: 128px;
+}
+header + section {
+    margin-left: 10px;
+}
+section {
+    font-size: 1vw;
+    display: flex;
+    align-items: center;
+}
+@media (min-width: 300px) {
+    section{
+      /* Minimum font size */
+      font-size: 18px;
+    }
+  }
+  @media (max-width: 900px) {
+    section{
+      /* Maximum font size */
+      font-size: 12px;
+    }
+  }
